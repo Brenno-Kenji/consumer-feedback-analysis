@@ -1,6 +1,6 @@
 # Análise de Feedback dos Clientes:
 
-Este é um projeto realizado graças ao programa de [Trilha de Carreira - Patronos] (https://www.patronos.org/trilhadecarreiras), que possui foco em preparar os alunos da Unicamp para os procesos seletivos e a realizar tomada de decisões estruturadas e conscientes na carreira profissional.
+Este é um projeto realizado graças ao programa de [Trilha de Carreira - Patronos](https://www.patronos.org/trilhadecarreiras), que possui foco em preparar os alunos da Unicamp para os procesos seletivos e a realizar tomada de decisões estruturadas e conscientes na carreira profissional.
 
 #### -- Status do Projeto: *em desenvolvimento*
 
@@ -36,7 +36,7 @@ Com os dados do projeto, foi definido como objetivo, junto ao meu mentor do prog
 |Name     |  Linkedin   | 
 |---------|-----------------|
 |[Brenno Kenji Ogusko Jaime](https://www.linkedin.com/in/brenno-kenji/)| Mentorado        |
-|[Luiz Zerbinatti] |     Mentor    |
+|Luiz Zerbinatti |     Mentor    |
 
 ## Contato:
 * Caso queira auxiliar de qualquer modo com o projeto, sinta-se livre de me contatar por e-mail: brennokoj@hotmail.com

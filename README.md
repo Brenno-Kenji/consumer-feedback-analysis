@@ -26,17 +26,18 @@ Com os dados do projeto, foi definido como objetivo, junto ao meu mentor do prog
 
 - Entendimento dos datasets.
 - Exploração inicial.
+- Relações entre variáveis.
 - Preparação dos dados.
 - Modelagem dos dados.
 - Avaliação da modelagem.
-- Deployment do notebook.
+- Deployment.
 
 #### Participantes:
 
-|Name     |  Linkedin   | 
-|---------|-----------------|
+|Name     |  Linkedin                                                                     | 
+|---------|-------------------------------------------------------------------------------|               
 |[Brenno Kenji Ogusko Jaime](https://www.linkedin.com/in/brenno-kenji/)| Mentorado        |
-|Luiz Zerbinatti |     Mentor    |
+|Luiz Zerbinatti                                                       | Mentor           |
 
 ## Contato:
 * Caso queira auxiliar de qualquer modo com o projeto, sinta-se livre de me contatar por e-mail: brennokoj@hotmail.com
